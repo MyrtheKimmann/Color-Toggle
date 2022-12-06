@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+body {
+    background-color: lightgray;
+}
+
+#img-menu {
+    height: 80px;
+    margin: 20px 30px;
+}
+
+#menu {
+    list-style: none;
+    width: 200px;
+    margin-left: 20px;
+    background-color: white;
+    transition: 400ms ease-in;
+}
+
+.hide-menu {
+    opacity: 0;
+}
+
+li {
+    padding: 15px 10px;
+    margin: 2px 0px;
+}
+
+.home-bg {
+    background-color: lightgray;
+ }
+
+.red-bg {
+    background-color: lightcoral;
+}
+
+.orange-bg {
+    background-color: lightsalmon;
+}
+
+.purple-bg {
+    background-color: mediumslateblue;
+}
+
+.green-bg {
+    background-color: lightgreen;
+}
+
